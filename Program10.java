@@ -1,10 +1,8 @@
 import java.applet.Applet;
-
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import org.w3c.dom.events.Event;
 public class Program10 extends Applet implements ActionListener {
     TextField t[] = new TextField[10];
